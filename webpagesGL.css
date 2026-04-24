@@ -7,13 +7,16 @@
  */
  
 p {
-    property: value;
+    font-family:Times;
+    font-size: 13px;
+    color:#842865;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #842865;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width:250px;
+    max-heigh:300px;
 }
